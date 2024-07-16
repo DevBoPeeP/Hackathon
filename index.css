@@ -1,0 +1,9 @@
+.logo {
+  width: 100px;
+}
+
+.b1 {
+  border: 20px;
+  border-color: blue;
+  border-radius: 50%;
+}
